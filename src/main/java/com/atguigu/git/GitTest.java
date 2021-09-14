@@ -9,6 +9,6 @@ public class GitTest {
         System.out.println("master test");
         System.out.println("hot-fix text");
         System.out.println("hello world");
-        System.out.println("我要成功了，我要月薪30");
+        System.out.println("我要成功了，我要月薪20万");
     }
 }
